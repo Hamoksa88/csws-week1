@@ -17,7 +17,7 @@ print(Countries)
 print(len(Countries))
 Countries.append("France")
 print(Countries)
-Countries.insert(2,"Netherland")#
+Countries.insert(2,"Netherland")
 print(Countries)
 del Countries[2]
 print(Countries)
