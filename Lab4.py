@@ -8,3 +8,11 @@ if Usernames == 'Admin':
 for Usernames in Usernames:
  print(f"Hello {Usernames}")
 
+Empty_username = []
+
+if Empty_username:
+    for Empty_username in Empty_username:
+     print(f"hello {Usernames}.")
+
+else:
+     print("No message to output list is empty")
